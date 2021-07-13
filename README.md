@@ -16,6 +16,14 @@ uController on it.
 Means all the HMI coding Is stored in HMI itself no extra load on Arduino.
 this will make coding simple and fast, HMI itself have some GPIO’s on board
 
+My custom PCB is the main part of this project thanks to [JLCPCB](https://jlcpcb.com/IAT ) to make possible this cool project
+
+
+I always order My PCB from [JLCPCB](https://jlcpcb.com/IAT ) becuase I trust them they have quality PCB and as fast as 24 PCB turn around time.
+
+we will see abouut this Multipurpose PCB further in this post.
+
+
 
 #   VIDEO 
 You can watch the full video here I have shown all main main points of build this cool multi wire cutting machine 
