@@ -1,3 +1,4 @@
+![MVI_0019 00_04_22_21 Still004](https://user-images.githubusercontent.com/19898602/125383477-17a1d680-e3b5-11eb-813d-5936a6ef9c2a.jpg)
 ![lolo](https://user-images.githubusercontent.com/19898602/125381855-479baa80-e3b2-11eb-89a2-2c3f8af22dda.png)
 
 
@@ -94,3 +95,18 @@ Then I mointed SK8 8mm shaft holder on the wooden sheet
 
 this holder holds 8mm smooth rod on which our motor will be slide
 
+
+![MVI_0019 00_04_22_21 Still004](https://user-images.githubusercontent.com/19898602/125383504-21c3d500-e3b5-11eb-95d8-f00d843dc7dc.jpg)
+
+
+Then I install the side part which I printed in White PLA 
+
+on this part we will install our Stepper motor and M6 threaded rod where we place our Gear system
+
+this part is design such like that we can adust the placement of every component later on 
+
+and that Yellow 3D printed part is monted on 8mm linear bearings 
+
+our DC motor with gear mounted on this part further this will connect with Stepper motor via 
+
+T8 lead screw , so the whole DC motor assembly can move horizontally. 
