@@ -183,3 +183,31 @@ They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
 If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get 18$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ).
 
 
+
+![MVI_0019 00_11_13_05 Still007](https://user-images.githubusercontent.com/19898602/125385578-64d37780-e3b8-11eb-8106-a81c0ba21ad2.jpg)
+
+I have installed this PCB on the back side of the machine . and mounted it on a Acrylic sheet 
+
+# HMI USER INTERFACE 
+
+![image](https://user-images.githubusercontent.com/19898602/125385827-ddd2cf00-e3b8-11eb-862a-6b84841708dc.png)
+
+I have used nextion editor for to creat my HMI User interface 
+
+Designing User interface in Nextion editor is very simple you no need to do any hardcore coding 
+
+it have almost all option as drag and drop which make is very easy to creat custom user interface.
+
+![MVI_0019 00_11_52_11 Still008](https://user-images.githubusercontent.com/19898602/125387152-170c3e80-e3bb-11eb-8849-e0313d89955b.jpg)
+
+
+at last I place the roll of wire in the top back side of machine
+
+and drag the wire from the gear assembly to cutter .
+
+in this way our machine is ready to cut the wire 
+
+only we need to enter data in HMI and hit start button. 
+
+
+
