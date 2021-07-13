@@ -18,3 +18,52 @@ this will make coding simple and fast, HMI itself have some GPIO’s on board
 #   VIDEO 
 You can watch the full video here I have shown all main main points of build this cool multi wire cutting machine 
 https://www.youtube.com/watch?v=VW07FaIvl_c&t=91s
+
+
+#  COMPONENTS 
+
+> Ardiuno nano
+
+
+> Nextion HMI
+
+
+> A4988 stepper driver IC
+
+
+> NEMA 17 STEPPER MOTORS
+
+
+> High torque metal gear servo motor
+
+
+> 6mm ID bearings
+
+
+> 9mm Blades
+
+
+> T8 lead screw
+
+
+> T8 lead screw nut
+
+
+> Stepper motor shaft copling
+
+
+> SK8 8MM shaft holder
+
+
+> 8mm Linear bearings
+
+
+> 8mm SS smooth rod
+
+
+> DC gear motor
+
+
+> Custom PCB
+
+> M6 rod 
