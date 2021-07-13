@@ -1,3 +1,4 @@
+![MVI_0019 00_06_22_07 Still005](https://user-images.githubusercontent.com/19898602/125383958-d65df680-e3b5-11eb-8fc0-be0a309fefb8.jpg)
 ![MVI_0019 00_04_22_21 Still004](https://user-images.githubusercontent.com/19898602/125383477-17a1d680-e3b5-11eb-813d-5936a6ef9c2a.jpg)
 ![lolo](https://user-images.githubusercontent.com/19898602/125381855-479baa80-e3b2-11eb-89a2-2c3f8af22dda.png)
 
@@ -110,3 +111,22 @@ and that Yellow 3D printed part is monted on 8mm linear bearings
 our DC motor with gear mounted on this part further this will connect with Stepper motor via 
 
 T8 lead screw , so the whole DC motor assembly can move horizontally. 
+
+
+![MVI_0019 00_06_22_07 Still005](https://user-images.githubusercontent.com/19898602/125383979-df4ec800-e3b5-11eb-827d-ab08e37724fa.jpg)
+
+This are the Gear which I printed in PLA this gears are used to drag wire to the cutter.
+
+![MVI_0019 00_08_48_09 Still006](https://user-images.githubusercontent.com/19898602/125384234-3c4a7e00-e3b6-11eb-8c2b-2c95dde74a02.jpg)
+
+This the wire cutting mechanism which have 2 pysichal parts one is directly mounted on 
+
+base wooden sheet and stepper motor installed to this part
+
+ond one part is installed with blade and 2 3mm ss rod is attached to this part
+
+all parts are placed such like that stepper motor pull the upper blade in downward direction
+
+and wire get cut in this motion. 
+
+
