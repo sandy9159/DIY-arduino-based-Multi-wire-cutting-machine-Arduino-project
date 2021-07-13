@@ -19,7 +19,7 @@ this will make coding simple and fast, HMI itself have some GPIO’s on board
 My custom PCB is the main part of this project thanks to [JLCPCB](https://jlcpcb.com/IAT ) to make possible this cool project
 
 
-I always order My PCB from [JLCPCB](https://jlcpcb.com/IAT ) becuase I trust them they have quality PCB and as fast as 24 PCB turn around time.
+I always order My PCB from [JLCPCB](https://jlcpcb.com/IAT ) becuase I trust them they have quality PCB and as fast as 24 hour PCB turn around time.
 
 we will see abouut this Multipurpose PCB further in this post.
 
