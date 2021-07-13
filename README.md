@@ -1,5 +1,5 @@
-![MVI_0019 00_06_22_07 Still005](https://user-images.githubusercontent.com/19898602/125383958-d65df680-e3b5-11eb-8fc0-be0a309fefb8.jpg)
-![MVI_0019 00_04_22_21 Still004](https://user-images.githubusercontent.com/19898602/125383477-17a1d680-e3b5-11eb-813d-5936a6ef9c2a.jpg)
+
+
 ![lolo](https://user-images.githubusercontent.com/19898602/125381855-479baa80-e3b2-11eb-89a2-2c3f8af22dda.png)
 
 
